@@ -1,4 +1,5 @@
-matplotlib
 numpy
-pandas
 tensorflow-cpu
+bertopic
+scikit-learn
+pandas
